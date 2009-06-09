@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>View::factory(${1})</string>
+	<key>name</key>
+	<string>View Factory</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>view</string>
+	<key>uuid</key>
+	<string>B3ADD9FF-9010-415B-90D6-0F426A311239</string>
+</dict>
+</plist>

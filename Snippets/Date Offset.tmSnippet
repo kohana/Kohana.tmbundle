@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:seconds} = date::offset(${2:remote timezone}${3:, ${4:local timezone}});</string>
+	<key>name</key>
+	<string>Date Offset</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dateoffset</string>
+	<key>uuid</key>
+	<string>2CE1B9EA-8363-4B31-8A88-C7B9FC3A6AED</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Kohana::cache(${1:name}, \$${2:data});</string>
+	<key>name</key>
+	<string>Cache Set</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cacheset</string>
+	<key>uuid</key>
+	<string>2EAC20F4-CADB-4073-AE02-6BB361C940DE</string>
+</dict>
+</plist>

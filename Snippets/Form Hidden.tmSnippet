@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo form::hidden(${1:name}, ${2:value}) ?&gt;</string>
+	<key>name</key>
+	<string>Form Hidden</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>formhidden</string>
+	<key>uuid</key>
+	<string>18012AFC-8D5C-4016-A782-C8147E7B34A5</string>
+</dict>
+</plist>

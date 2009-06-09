@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:extracted} = arr::extract(\$${2:array}, \$${3:keys});</string>
+	<key>name</key>
+	<string>Array Extract</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>arrextract</string>
+	<key>uuid</key>
+	<string>21198ABD-2F46-4B5E-B008-005310F009AC</string>
+</dict>
+</plist>

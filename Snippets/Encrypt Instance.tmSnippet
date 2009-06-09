@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Encrypt::instance(${1:name})</string>
+	<key>name</key>
+	<string>Encrypt Instance</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>encrypt</string>
+	<key>uuid</key>
+	<string>F10BF62F-0EA1-409E-BAA0-CD85F7E15AE6</string>
+</dict>
+</plist>

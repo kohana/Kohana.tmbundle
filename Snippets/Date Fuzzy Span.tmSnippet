@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:seconds} = date::fuzzy_span(\$${2:timestamp});</string>
+	<key>name</key>
+	<string>Date Fuzzy Span</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>datefuzzy</string>
+	<key>uuid</key>
+	<string>631991F9-4715-4BFC-AAA7-886351F36C1F</string>
+</dict>
+</plist>

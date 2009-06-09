@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo form::radio(${1:name}, ${2:value}) ?&gt;</string>
+	<key>name</key>
+	<string>Form Radio</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>formradio</string>
+	<key>uuid</key>
+	<string>5E1E957B-FD98-4096-BE35-C9C725F818DD</string>
+</dict>
+</plist>

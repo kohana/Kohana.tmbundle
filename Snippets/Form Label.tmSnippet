@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo form::label(${1:input}, ${2:text}) ?&gt;</string>
+	<key>name</key>
+	<string>Form Label</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>formlabel</string>
+	<key>uuid</key>
+	<string>DA940330-2C85-4C41-9AA6-17BDD7A7D13C</string>
+</dict>
+</plist>

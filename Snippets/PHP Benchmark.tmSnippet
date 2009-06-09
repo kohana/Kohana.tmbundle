@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$start = microtime(TRUE);
+for (\$i = 0, \$max = 10000; \$i &lt; \$max; \$i++)
+{
+	${1}
+}
+echo "Benchmark took ", number_format(microtime(TRUE) - \$start, 6), "seconds\n\n";</string>
+	<key>name</key>
+	<string>PHP Benchmark</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>bench</string>
+	<key>uuid</key>
+	<string>0FC5AABB-415D-40E5-A7AF-7D8812BCB205</string>
+</dict>
+</plist>

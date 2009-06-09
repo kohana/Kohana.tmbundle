@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo form::open(${1:uri}${2:, ${3:attributes}}) ?&gt;</string>
+	<key>name</key>
+	<string>Form Open</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>formopen</string>
+	<key>uuid</key>
+	<string>EAE55A78-3A05-49F7-B2C1-3E7A7552F839</string>
+</dict>
+</plist>
