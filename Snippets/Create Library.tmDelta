@@ -5,9 +5,9 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>class ${1:Class}_Core {
+		<string>class ${1:Class} {
 
-	public function __construct()
+	public function __construct(${2})
 	{
 		${3}
 	}

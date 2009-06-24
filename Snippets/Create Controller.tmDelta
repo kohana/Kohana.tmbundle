@@ -5,7 +5,7 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>class Controller_${1:Name} extends ${2}Controller {
+		<string>class Controller_${1:Name} extends Controller${2} {
 
 	public function action_index()
 	{

@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:callback} = arr::callback(\$${2:string});</string>
+	<string>public function action_${1:index}(${2})
+{
+	${3}
+}</string>
 	<key>name</key>
-	<string>Array Callback</string>
+	<string>Create Controller Action</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>arrcallback</string>
+	<string>action</string>
 	<key>uuid</key>
-	<string>2F94E0F4-25BA-47ED-A6C6-CB11DC652D00</string>
+	<string>F583F7B9-9B4E-4B75-B119-6ED032605520</string>
 </dict>
 </plist>

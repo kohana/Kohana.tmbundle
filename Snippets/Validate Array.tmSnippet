@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Validation::factory(${1})</string>
+	<string>Validate::factory(${1})</string>
 	<key>name</key>
-	<string>Validation Factory</string>
+	<string>Validate Factory</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>validation</string>
+	<string>validate</string>
 	<key>uuid</key>
 	<string>DD782E50-6BA8-43B1-A2F3-02E870931FAB</string>
 </dict>
