@@ -5,14 +5,14 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>class ${1:Class} {
+		<string>class ${1:Class}${2: extends ${3:Class}} {
 
-	public function __construct(${2})
+	public function __construct(${4})
 	{
-		${3}
+		${5}
 	}
 
-} // End ${4:$1}</string>
+} // End ${6:$1}</string>
 	</dict>
 	<key>deleted</key>
 	<array/>
