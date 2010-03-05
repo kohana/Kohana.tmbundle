@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class Controller_${1:Name} extends Controller${2} {
+
+public function action_index()
+{
+	${3}
+}
+
+} // End ${4:$1}</string>
+	<key>name</key>
+	<string>Create Controller</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ccontroller</string>
+	<key>uuid</key>
+	<string>C52C4EE6-2E42-4554-8D61-455922748ECE</string>
+</dict>
+</plist>

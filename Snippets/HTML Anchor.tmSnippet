@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo html::anchor(${1:link}, ${2:title}) ?&gt;</string>
+	<key>name</key>
+	<string>HTML Anchor</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>htmlanchor</string>
+	<key>uuid</key>
+	<string>5699D5D5-434B-487D-8516-B41678FD84BF</string>
+</dict>
+</plist>
