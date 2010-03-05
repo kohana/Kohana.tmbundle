@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>encrypt</string>
+	<string>database</string>
 	<key>uuid</key>
 	<string>AA29E74B-391B-4460-9218-D35060DD54BD</string>
 </dict>
