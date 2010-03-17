@@ -45,6 +45,25 @@
 				<key>name</key>
 				<string>Class Creation</string>
 			</dict>
+			<key>64B6EEF1-32A3-46CD-BC10-4A30256CCA4D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BDED93FA-E245-4C79-BBE0-8B9C61B32F39</string>
+					<string>4D5CC4AA-D322-4054-81AE-944816EC5CAC</string>
+				</array>
+				<key>name</key>
+				<string>Codebench</string>
+			</dict>
+			<key>90BE3470-EFCE-4355-B697-4FFFC03F06F1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>64B6EEF1-32A3-46CD-BC10-4A30256CCA4D</string>
+				</array>
+				<key>name</key>
+				<string>Modules</string>
+			</dict>
 			<key>AB24325D-03FA-4F41-A8BB-F42EE1163C4C</key>
 			<dict>
 				<key>items</key>
@@ -131,6 +150,8 @@
 		<string>B3ADD9FF-9010-415B-90D6-0F426A311239</string>
 		<string>DD782E50-6BA8-43B1-A2F3-02E870931FAB</string>
 		<string>272FBBDF-AA93-4807-B754-475AAA6EC52C</string>
+		<string>BDED93FA-E245-4C79-BBE0-8B9C61B32F39</string>
+		<string>4D5CC4AA-D322-4054-81AE-944816EC5CAC</string>
 	</array>
 	<key>uuid</key>
 	<string>AB66297E-55D9-4350-BE13-601C300EC27F</string>
