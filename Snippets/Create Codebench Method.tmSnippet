@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>public function bench_${1:name}(\$subject)
+{
+	${2:preg_match('${3:~$4~$5}', \$subject, \$matches);
+	return \$matches;}
+}</string>
+	<key>name</key>
+	<string>Create Codebench Method</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cbench</string>
+	<key>uuid</key>
+	<string>4D5CC4AA-D322-4054-81AE-944816EC5CAC</string>
+</dict>
+</plist>
