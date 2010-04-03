@@ -3,14 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Database::instance(${1:name})</string>
+	<string>public function bench_${1:name}(\$subject)
+{
+	${2:preg_match('${3:~$4~$5}', \$subject, \$matches);
+	return \$matches;}
+}</string>
 	<key>name</key>
-	<string>Database Instance</string>
+	<string>Create Codebench Method</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>database</string>
+	<string>cbench</string>
 	<key>uuid</key>
-	<string>AA29E74B-391B-4460-9218-D35060DD54BD</string>
+	<string>4D5CC4AA-D322-4054-81AE-944816EC5CAC</string>
 </dict>
 </plist>
