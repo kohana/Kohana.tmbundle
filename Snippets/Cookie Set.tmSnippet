@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>cookie::set(${1:name}, ${2:value});</string>
+	<string>Cookie::set(${1:name}, ${2:value});</string>
 	<key>name</key>
 	<string>Cookie Set</string>
 	<key>scope</key>

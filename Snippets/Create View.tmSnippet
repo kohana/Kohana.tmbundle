@@ -5,9 +5,10 @@
 	<key>content</key>
 	<string>class View_${1:Name} extends ${2:View} {
 
-${3}
+	${3}
 
-} // End ${4:$1}</string>
+} // End ${4:$1}
+</string>
 	<key>name</key>
 	<string>Create View</string>
 	<key>scope</key>

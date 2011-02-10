@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:value} = cookie::get(${2:name});</string>
+	<string>\$${1:value} = Cookie::get(${2:name});</string>
 	<key>name</key>
 	<string>Cookie Get</string>
 	<key>scope</key>

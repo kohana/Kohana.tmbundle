@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:seconds} = date::span(\$${2:timestamp}, \$${3:timestamp});</string>
+	<string>\$${1:seconds} = Date::span(\$${2:timestamp}, \$${3:timestamp});</string>
 	<key>name</key>
 	<string>Date Span</string>
 	<key>scope</key>

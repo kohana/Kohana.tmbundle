@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>cookie::delete(${1:name});</string>
+	<string>Cookie::delete(${1:name});</string>
 	<key>name</key>
 	<string>Cookie Delete</string>
 	<key>scope</key>

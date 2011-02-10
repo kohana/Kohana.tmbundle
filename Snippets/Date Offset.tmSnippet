@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:seconds} = date::offset(${2:remote timezone}${3:, ${4:local timezone}});</string>
+	<string>\$${1:seconds} = Date::offset(${2:remote timezone}${3:, ${4:local timezone}});</string>
 	<key>name</key>
 	<string>Date Offset</string>
 	<key>scope</key>
