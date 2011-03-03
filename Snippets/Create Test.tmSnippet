@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:Class}Test extends Unittest_TestCase {
+
+	${2}
+
+} // End Test ${3:$1}
+</string>
+	<key>name</key>
+	<string>Create Test</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ctest</string>
+	<key>uuid</key>
+	<string>8ABB696F-587F-49A5-BD3A-34279D389E19</string>
+</dict>
+</plist>
