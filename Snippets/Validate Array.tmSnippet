@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Validate::factory(${1})</string>
+	<string>Validation::factory(${1})</string>
 	<key>name</key>
-	<string>Validate Factory</string>
+	<string>Validation Factory</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
