@@ -10,7 +10,7 @@
 		${5}
 	}
 
-} // End ${6:$1}
+}
 </string>
 	<key>name</key>
 	<string>Create Library</string>

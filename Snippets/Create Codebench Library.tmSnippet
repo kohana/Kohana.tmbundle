@@ -14,13 +14,13 @@
 
 	${0:// "cbench" tab trigger to create a new bench method}
 
-} // End Bench_$1</string>
+}</string>
 	<key>name</key>
 	<string>Create Codebench Library</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>clibrary</string>
+	<string>blibrary</string>
 	<key>uuid</key>
 	<string>BDED93FA-E245-4C79-BBE0-8B9C61B32F39</string>
 </dict>
